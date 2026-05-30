@@ -5,7 +5,7 @@ draft: false
 ---
 
 ## Bio
-I am an undergraduate medical student at Fudan University interested in innate immunity and neuroscience.
+I am an undergraduate medical student at Fudan University interested in immunology and neuroscience.
 
 My current work focuses on DNA damage response and herpesvirus associated cancer.
 
