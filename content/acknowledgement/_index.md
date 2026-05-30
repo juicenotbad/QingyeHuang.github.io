@@ -15,4 +15,4 @@ draft: false
 ## Collaborators
 Members of the *Cai* Lab and Dr. Zhongwei Dong
 
-Dr. Lei Zhou and Boyu Chen
+Dr. Lei Zhou and Mr. Boyu Chen
