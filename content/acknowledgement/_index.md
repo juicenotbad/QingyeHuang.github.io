@@ -2,6 +2,7 @@
 title: "Acknowledgements"
 date: 2026-05-11
 draft: false
+layout: simple
 ---
 ## Mentors
 **Prof. Qiliang Cai**, School of Basic Meidcal Sciences, Fudan University
