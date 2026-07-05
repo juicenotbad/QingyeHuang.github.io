@@ -25,4 +25,4 @@ My current work focuses on DNA damage response and herpesvirus associated cancer
 **Undergraduate Research Assistant**, Department of Orthopaedic Surgery, Zhongshan Hospital, Fudan University (2024)
 
 ## Professional Education
-- BM, Fudan University (2022-)
+- BM, Clinical Medicine, Fudan University (2022-)
