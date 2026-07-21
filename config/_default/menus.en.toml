@@ -25,19 +25,24 @@
     weight = 20
 
 [[main]]
+    name = "Notes"
+    pageRef = "notes.md"
+    weight = 30
+
+[[main]]
     name = "Gallery"
     pageRef = "gallery.md"
-    weight = 30
+    weight = 40
 
 [[main]]
     name = "Acknowledgements"
     pageRef = "acknowledgement"
-    weight = 40
+    weight = 50
 
 [[main]]
     name = "Contact"
     pageRef = "contact"
-    weight = 50
+    weight = 60
 
 #[[main]]
 #    name = "Par"
