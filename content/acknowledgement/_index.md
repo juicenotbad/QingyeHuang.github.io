@@ -5,13 +5,13 @@ draft: false
 layout: simple
 ---
 ## Mentors
-**Prof. Qiliang Cai**, School of Basic Meidcal Sciences, Fudan University
+**Qiliang Cai**, Professor of Virology, School of Basic Meidcal Sciences, Fudan University
 
-**Prof. Yunlu Yin**, School of Management, Fudan University
+**Yunlu Yin**, Associate Professor, School of Management, Fudan University
 
-**Prof. Huiren Wang**, Zhongshan Hospital, Fudan University
+**Huiren Wang**, Deputy Chief Physician, Zhongshan Hospital, Fudan University
 
-**Prof. Hongchen Cai**, School of Pharmaceutical Sciences, Xiamen University
+**Hongchen Cai**, Professor of Pharmacology, School of Pharmaceutical Sciences, Xiamen University
 
 ## Collaborators
 Members of the *Cai* Lab and Dr. Zhongwei Dong
