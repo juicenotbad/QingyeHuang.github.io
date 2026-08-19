@@ -7,7 +7,7 @@ layout: simple
 ## Mentors
 **Qiliang Cai**, Professor of Virology, School of Basic Meidcal Sciences, Fudan University
 
-**Yunlu Yin**, Associate Professor, School of Management, Fudan University
+**Yunlu Yin**, Associate Professor of Marketing, School of Management, Fudan University
 
 **Huiren Wang**, Deputy Chief Physician, Zhongshan Hospital, Fudan University
 
