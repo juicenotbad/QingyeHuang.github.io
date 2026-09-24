@@ -15,6 +15,7 @@ My current work focuses on DNA damage response and herpesvirus associated cancer
 - Cancer biology
 - DNA surveillance
 - RNA biology
+- Molecular neuroscience
 - Systems neuroscience
 
 ## Experience
@@ -22,7 +23,7 @@ My current work focuses on DNA damage response and herpesvirus associated cancer
 Huashan Hospital, Fudan University (2026-2027)
 
 **Undergraduate Research Assistant**  
-[*Cai*](https://basicmed.fudan.edu.cn/c6/04/c28575a443908/page.htm) Lab @ Fudan University (2022-2027)
+[Cai](https://basicmed.fudan.edu.cn/c6/04/c28575a443908/page.htm) Lab @ Fudan University (2022-2027)
 
 **Undergraduate Research Assistant**  
 Department of Orthopaedic Surgery, Zhongshan Hospital, Fudan University (2024)
