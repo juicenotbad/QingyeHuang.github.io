@@ -14,11 +14,11 @@ layout: simple
 **Hongchen Cai**, Professor of Pharmacology, School of Pharmaceutical Sciences, Xiamen University
 
 ## Collaborators
-Members of the *Cai* Lab and Dr. Zhongwei Dong
+Members and alumni of the **Cai** Lab
 
 Dr. Lei Zhou and Mr. Boyu Chen
 
 **With sincere gratitude to all those who have supported and inspired me along the way.** 🫶
 
 ## Support
-Fudan Undergraduate Research Oppotunities Program (FDUROP)
+Fudan Undergraduate Research Oppotunities Program (FDUROP), 2023
