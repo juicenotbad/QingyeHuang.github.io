@@ -14,12 +14,13 @@ layout: simple
 **Hongchen Cai**, Professor of Pharmacology, School of Pharmaceutical Sciences, Xiamen University
 
 ## Colleagues & Collaborators
-Members and alumni of the **Cai Lab**, especially Caixia Zhu · Yuyan Wang · Qing Liang · Jin Gan · Shen Cai · Feng Gu · Shujuan Du · Xiaoqing Liu · Xiaoting Chen · Yulin Zhang · Ying Li · Xiao Han · Zhongwei Dong · Xiaotian Ge · Xuehua Min · Xinyu Wang · Yifei Xu · Wutian Rao · Gaowei Hu · Ke Peng · Lina Liu · Yaxi Xie · Yupeng Shao · Muru Xu · Wen Sun · Yuling Chen · Zihan Zhang · Yang Liu · Gaoshuai Zhang · Yi Feng · Minghui Liu · Jianlin Zhou.
+*Members and alumni of the **Cai Lab**, with special thanks to:*   
+Caixia Zhu · Yuyan Wang · Qing Liang · Jin Gan · Shen Cai · Feng Gu · Shujuan Du · Xiaoqing Liu · Xiaoting Chen · Yulin Zhang · Ying Li · Xiao Han · Zhongwei Dong · Xiaotian Ge · Xuehua Min · Xinyu Wang · Yifei Xu · Wutian Rao · Gaowei Hu · Ke Peng · Lina Liu · Yaxi Xie · Yupeng Shao · Muru Xu · Wen Sun · Yuling Chen · Zihan Zhang · Yang Liu · Gaoshuai Zhang · Yi Feng · Minghui Liu · Jianlin Zhou.
 
-**Fudan University Shanghai Cancer Center**  
+*Fudan University Shanghai Cancer Center*  
 Yantao Duan
 
-**Zhongshan Hospital, Fudan University**  
+*Zhongshan Hospital, Fudan University*  
 Lei Zhou · Boyu Chen · Yijiao Chen
 
 **With sincere gratitude to all those who have supported and inspired me along the way.** 🫶
