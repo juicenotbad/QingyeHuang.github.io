@@ -15,7 +15,7 @@ layout: simple
 
 ## Colleagues & Collaborators
 *Members and alumni of the **Cai Lab**, with special thanks to:*   
-Caixia Zhu · Yuyan Wang · Qing Liang · Jin Gan · Shen Cai · Feng Gu · Shujuan Du · Xiaoqing Liu · Xiaoting Chen · Yulin Zhang · Ying Li · Xiao Han · Zhongwei Dong · Xiaotian Ge · Xuehua Min · Xinyu Wang · Yifei Xu · Wutian Rao · Gaowei Hu · Ke Peng · Lina Liu · Yaxi Xie · Yupeng Shao · Muru Xu · Wen Sun · Yuling Chen · Zihan Zhang · Yang Liu · Gaoshuai Zhang · Yi Feng · Minghui Liu · Jianlin Zhou.
+Caixia Zhu · Yuyan Wang · Qing Liang · Jin Gan · Shen Cai · Feng Gu · Shujuan Du · Xiaoqing Liu · Xiaoting Chen · Yulin Zhang · Ying Li · Xiao Han · Zhongwei Dong · Xiaotian Ge · Xuehua Min · Xinyu Wang · Yifei Xu · Wutian Rao · Gaowei Hu · Ke Peng · Lina Liu · Yaxi Xie · Yupeng Shao · Muru Xu · Wen Sun · Yuling Chen · Zihan Zhang · Yang Liu · Gaoshuai Zhang · Yi Feng · Minghui Liu · Jianlin Zhou
 
 *Fudan University Shanghai Cancer Center*  
 Yantao Duan
