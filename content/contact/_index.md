@@ -8,7 +8,9 @@ layout: simple
 ## Academic
 Email: 22301050039@m.fudan.edu.cn
 
-GitHub: https://github.com/juicenotbad
+GitHub: [juicenotbad](https://github.com/juicenotbad)
+
+ORCID: [0009-0000-1014-1411](https://orcid.org/0009-0000-1014-1411)
 
 ## Social
 WeChat: wxid_jhp779ygn98e22
