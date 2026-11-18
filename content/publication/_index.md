@@ -28,7 +28,7 @@ IL-2Rγc functions as a nuclear scaffold for STAT6-HIF2a complex to promote tumo
 Zhang, Y.<sup>†</sup>, Dong, Z.<sup>†</sup>, Chen, X.<sup>†</sup>, Peng, K.<sup>†</sup>, **Huang, Q.<sup>†</sup>**, Rao, W., Song, S., Zhang, L., Gao, S., Zhu, C., Wang, Y., Robertson, E., Yuan, Z., Wei, F., & Cai, Q. 
 (2026). 
 Oncogenic viral infection triggers LAMP2A SUMOylation and chaperone-mediated autophagy to promote tumorigenesis. 
-***Nature Microbiology***, 11(9), 2883-2900. https://doi.org/10.1038/s41564-026-02476-3
+***Nature Microbiology***, 11(10), 2883-2900. https://doi.org/10.1038/s41564-026-02476-3
 
 Peng, K.<sup>†</sup>, Chen, X.<sup>†</sup>, Zhang, Y., Liu, L., **Huang, Q.**, Du, S., Zhu, C., Wang, Y., Wei, F., Gao, S., & Cai, Q. 
 (2025). 
