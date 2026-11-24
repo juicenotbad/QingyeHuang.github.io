@@ -20,7 +20,7 @@ None
 TRIML2 Potentiates DDX41-Mediated STING Activation by Antagonizing TRIM25-Dependent ISGylation.
 ***Molecular Cell***>
 
-Min, X., Xu, Y., Zhang, Y., Zhou, J., Peng, K., Liu, M., **Huang, Q.**, Wang, X., Robertson, E., Zhu, C., Wang, Y., & Cai, Q. 
+Min, X.<sup>†</sup>, Xu, Y.<sup>†</sup>, Zhang, Y.<sup>†</sup>, Zhou, J.<sup>†</sup>, Peng, K., Liu, M., **Huang, Q.**, Wang, X., Robertson, E., Zhu, C., Wang, Y., & Cai, Q. 
 (2026).
 IL-2Rγc functions as a nuclear scaffold for STAT6-HIF2a complex to promote tumorigenesis and suppress antiviral immunity. 
 ***mBio***, e0208626. https://doi.org/10.1128/mbio.02086-26
